@@ -7,7 +7,7 @@ The purpose of this project was to analyze NYC bikesharing data in order to dete
 
 A link to the analysis is below:
 
-[link to dashboard](https://public.tableau.com/views/CompletedChallenge2)
+[link to dashboard](https://public.tableau.com/views/CompletedChallenge2/TripStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Highlights:
 
